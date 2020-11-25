@@ -1,5 +1,5 @@
 Algoritmo "DESCONTO NO PRODUTO"
-//a
+
 // 1)	Uma empresa produz três tipos de peças mecânicas:
 // parafusos, porcas e arruelas. Têm-se os preços unitários
 // de cada tipo de peça e sabe-se que sobre estes preços
